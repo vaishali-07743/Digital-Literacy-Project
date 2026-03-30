@@ -2,7 +2,7 @@
 #  Digital Literacy Project
 
 ##  Student Details
-- **Name:** Vaishali  
+- **Name:** Vaishali Sukhnani
 - **Course:** B.Tech (Computer Science)  
 - **University:** VIT Bhopal University  
 - **Course Code:** CSE0001 – Digital Literacy  
