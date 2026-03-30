@@ -1,5 +1,4 @@
 # Digital-Literacy-Project
-#  Digital Literacy Project
 
 ##  Student Details
 - **Name:** Vaishali Sukhnani
@@ -20,23 +19,18 @@ The project is divided into five tasks, each focusing on a different aspect of d
 An infographic was designed to explain key concepts of digital literacy, including safe internet practices, professional online presence, and email etiquette.
 
  **Infographic Link:** (Add your Canva link here)  
-📁 File available in `task-1-presentation/`
+ File available in `task-1-presentation/`
 
 ---
 
 ##  Task 2: Student Digital Portfolio
 Profiles were created on professional platforms to build a digital presence.
-
-**Profile Links:**
-- GitHub: (Add link)  
-- LinkedIn: (Add link)  
-- Kaggle: (Add link)  
-
+ 
  Screenshots available in `task-2-portfolio/`
 
 ---
 
-## 💻 Task 3: Coding & Collaboration Platforms
+## Task 3: Coding & Collaboration Platforms
 A beginner-level coding problem was solved on HackerRank, and a Digital Literacy Quiz was created using Google Forms.
 
  **Google Form Quiz:** (Add your form link here)  
