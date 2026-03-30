@@ -18,7 +18,6 @@ The project is divided into five tasks, each focusing on a different aspect of d
 ## Task 1: Digital Literacy Awareness Infographic
 An infographic was designed to explain key concepts of digital literacy, including safe internet practices, professional online presence, and email etiquette.
 
- **Infographic Link:** (Add your Canva link here)  
  File available in `task-1-presentation/`
 
 ---
@@ -33,7 +32,7 @@ Profiles were created on professional platforms to build a digital presence.
 ## Task 3: Coding & Collaboration Platforms
 A beginner-level coding problem was solved on HackerRank, and a Digital Literacy Quiz was created using Google Forms.
 
- **Google Form Quiz:** (Add your form link here)  
+ **Google Form Quiz:** https://forms.gle/PkeCVjFE5PKByMeL9   
  Screenshots available in `task-3-platforms/`
 
 ---
